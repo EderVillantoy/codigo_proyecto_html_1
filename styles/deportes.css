@@ -1,0 +1,80 @@
+/*html*/
+
+/*HEADER*/
+header {
+    background-color: #ff3b19;
+    height: 5em;
+}
+
+strong {
+    color: white;
+    font-size: 2em;
+    margin-top: 13px;;
+}
+
+header ul {
+    float: right;
+    padding-top: 12px;
+
+}
+
+header li {
+    display: inline-block;
+    padding-right: 20px;;
+}
+
+header li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+/*ASIDE*/
+aside {
+    background-color: darkgray;
+    flex: 30px;
+}
+
+aside section {
+    background-color: #ff3b19;
+}
+
+aside section h2 {
+    color: white;
+    margin-left: 10px;;
+}
+
+aside li {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+/*MAIN*/
+.deportes h1 {
+    font-size: 3em;
+}
+
+.futbol {
+    font-size: 1.2em;
+}
+
+.voley {
+    font-size: 1.2em;
+}
+
+figure img {
+    width: 244px;
+    height: 124px;
+    margin-top: 10px;;
+}
+
+article {
+    background-color: darkgray;
+}
+
+main {
+    display: flex;
+}
+
+
