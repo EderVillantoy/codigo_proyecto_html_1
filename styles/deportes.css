@@ -9,13 +9,11 @@ header {
 strong {
     color: white;
     font-size: 2em;
-    margin-top: 13px;;
 }
 
 header ul {
-    float: right;
-    padding-top: 12px;
-
+    display: inline-flex;
+    padding-left: 75%;
 }
 
 header li {
