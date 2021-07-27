@@ -13,12 +13,13 @@ strong {
 
 header ul {
     display: inline-flex;
-    padding-left: 75%;
+    padding-left: 70%;
+    padding-top: 13px;
 }
 
 header li {
-    display: inline-block;
-    padding-right: 20px;;
+    list-style-type: none;
+    padding-right: 20px;
 }
 
 header li a {
